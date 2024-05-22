@@ -21,6 +21,12 @@ html{
     max-width: 1300px;
     margin: auto;
 }
+
+.contenido h2{
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline red;
+}
 /* ENCABEZADO */
 header{
     display: flex;
